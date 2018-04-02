@@ -5,7 +5,13 @@
 // Create Date: 12/17/2017 04:27:18 PM
 // Module Name: case_check
 // Project Name: Game of Codes
-// Description: This is the module for updating the points of the user in the seven segment display. It takes the answer from the previous module, and if key_valid is 1, which means the user pressed one button in the time slot (approximately 8 seconds), it will increase or decrease one point according to his answer. If the user does not press any key during the time slot, it is considered as a wrong answer and decreases one point. Also, if the user attempts to press again another key from the keypad after having pressed one, it will be ignored. The points will increase up to 9, then anything will be ignored unless restart switch is turned on. Lastly, if the user turns the restart switch on, the points will go to zero again.
+// Description: This is the module for updating the points of the user in the seven segment display. 
+//It takes the answer from the previous module, and if key_valid is 1, which means the user pressed 
+//one button in the time slot (approximately 8 seconds), it will increase or decrease one point according to his answer. 
+//If the user does not press any key during the time slot, it is considered as a wrong answer and decreases one point. 
+//Also, if the user attempts to press again another key from the keypad after having pressed one, it will be ignored. 
+//The points will increase up to 9, then anything will be ignored unless restart switch is turned on. 
+//Lastly, if the user turns the restart switch on, the points will go to zero again.
 //module case_check(
 //	input logic clk_fast,
 //	input logic clk_slow,
