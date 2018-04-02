@@ -1,5 +1,7 @@
 # Game-Of-Codes
 A project in System Verilog given by course instructor in CS223 Fall 2017 Course, Bilkent University
+PROJECT WAS DONE WITH VIVADO 2015.2
+Vivado Design Suite is a software suite produced by Xilinx for synthesis and analysis of HDL designs, superseding Xilinx ISE with additional features for system on a chip development and high-level synthesis.
 
 CS223 Laboratory Project  - Game of Codes
 ____________
