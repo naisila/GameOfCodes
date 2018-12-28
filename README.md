@@ -1,5 +1,5 @@
 # Game of Codes
-A project in SystemVerilog given by course instructor in CS223 Fall 2017 Course, Bilkent University.
+A project in SystemVerilog given by course instructor in [CS223 Digital Design Fall](https://stars.bilkent.edu.tr/syllabus/view/CS/223) 2017 Course, Bilkent University.
 ### Project setup
 Check [image1.jpg](https://github.com/NaisilaPuka/GameOfCodes/blob/master/image1.jpg).
 ### Framework
