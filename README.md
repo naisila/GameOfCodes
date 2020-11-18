@@ -1,7 +1,7 @@
 # Game of Codes
 A project in SystemVerilog given by course instructor in [CS223 Digital Design](https://stars.bilkent.edu.tr/syllabus/view/CS/223) Fall 2017 Course, Bilkent University.
 ### Project setup
-Check [image1.jpg](https://github.com/NaisilaPuka/GameOfCodes/blob/master/image1.jpg).
+Check [image1.jpg](https://github.com/naisila/GameOfCodes/blob/master/image1.jpg).
 ### Framework
 VIVADO 2015.2
 Vivado Design Suite is a software suite produced by Xilinx for synthesis and analysis of HDL designs, superseding Xilinx ISE with additional features for system on a chip development and high-level synthesis.
